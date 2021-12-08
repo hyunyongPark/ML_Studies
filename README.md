@@ -11,3 +11,6 @@
 --------
 ## Machine Learning Techniques & Method
 
+- Gradient Clipping
+  - code : 예정
+  - review : https://etotmetotm.tistory.com/3
