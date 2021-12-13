@@ -14,3 +14,7 @@
 - Gradient Clipping
   - code : 예정
   - review : https://etotmetotm.tistory.com/3
+
+- Batch Nomalization
+  - code : 예정
+  - review : https://etotmetotm.tistory.com/4
